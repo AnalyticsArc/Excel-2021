@@ -1,0 +1,15 @@
+Name;Place;Designation;Basic;Phone;Company
+Shailesh kumar;Delhi;Sales Manager;5000;3498760;NASASOFT
+Neena Gupta;Mumbai;Customer Executive;4500;6547890;Msource
+Raghu neeraj;Kolkatha;Accounts Manager;6500;2435865;Mahindra
+Rajan mathew;Kochi;Sr.Engineer;7500;3564748;HMT
+Nandish Gowda;Bangalore;Software Developer;5500;2343988;Wipro
+Ravi D Souza;Panaji;Marketing Executive;6700;8734251;Advani-Oerlikon
+Chandrakanth S;Chennai;Coordinator;9500;2229587;First Computers
+Shalini S;Bangalore;Foreign Language Director;7500;5246383;Sols
+Dileep Krishna;Bangalore;Office Assistant;2500; 5246383;Sols
+Manoj G Nair;Kochi;Regional Manager;5000;2623600;Sols
+Renuka Sahkare;Bangalore;Counsellor;3500; 5246383;Sols
+Abdul Salam;Bhopal;Software Developer;8500;24322568;NMDC
+
+

@@ -1,0 +1,927 @@
+<?xml version="1.0"?>
+<ProductsMaster>
+<Product>
+  <ProductID><![CDATA[1]]></ProductID>
+  <ProductName><![CDATA[Chai]]></ProductName>
+  <SupplierID><![CDATA[1]]></SupplierID>
+  <CategoryID><![CDATA[1]]></CategoryID>
+  <QuantityPerUnit><![CDATA[10 boxes x 20 bags]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[18]]></UnitPrice>
+  <UnitsInStock><![CDATA[39]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[10]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[2]]></ProductID>
+  <ProductName><![CDATA[Chang]]></ProductName>
+  <SupplierID><![CDATA[1]]></SupplierID>
+  <CategoryID><![CDATA[1]]></CategoryID>
+  <QuantityPerUnit><![CDATA[24 - 12 oz bottles]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[19]]></UnitPrice>
+  <UnitsInStock><![CDATA[17]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[40]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[25]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[3]]></ProductID>
+  <ProductName><![CDATA[Aniseed Syrup]]></ProductName>
+  <SupplierID><![CDATA[1]]></SupplierID>
+  <CategoryID><![CDATA[2]]></CategoryID>
+  <QuantityPerUnit><![CDATA[12 - 550 ml bottles]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[10]]></UnitPrice>
+  <UnitsInStock><![CDATA[13]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[70]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[25]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[4]]></ProductID>
+  <ProductName><![CDATA[Chef Anton's Cajun Seasoning]]></ProductName>
+  <SupplierID><![CDATA[2]]></SupplierID>
+  <CategoryID><![CDATA[2]]></CategoryID>
+  <QuantityPerUnit><![CDATA[48 - 6 oz jars]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[22]]></UnitPrice>
+  <UnitsInStock><![CDATA[53]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[0]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[5]]></ProductID>
+  <ProductName><![CDATA[Chef Anton's Gumbo Mix]]></ProductName>
+  <SupplierID><![CDATA[2]]></SupplierID>
+  <CategoryID><![CDATA[2]]></CategoryID>
+  <QuantityPerUnit><![CDATA[36 boxes]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[21.35]]></UnitPrice>
+  <UnitsInStock><![CDATA[0]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[0]]></ReorderLevel>
+  <Discontinued><![CDATA[1]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[6]]></ProductID>
+  <ProductName><![CDATA[Grandma's Boysenberry Spread]]></ProductName>
+  <SupplierID><![CDATA[3]]></SupplierID>
+  <CategoryID><![CDATA[2]]></CategoryID>
+  <QuantityPerUnit><![CDATA[12 - 8 oz jars]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[25]]></UnitPrice>
+  <UnitsInStock><![CDATA[120]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[25]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[7]]></ProductID>
+  <ProductName><![CDATA[Uncle Bob's Organic Dried Pears]]></ProductName>
+  <SupplierID><![CDATA[3]]></SupplierID>
+  <CategoryID><![CDATA[7]]></CategoryID>
+  <QuantityPerUnit><![CDATA[12 - 1 lb pkgs.]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[30]]></UnitPrice>
+  <UnitsInStock><![CDATA[15]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[10]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[8]]></ProductID>
+  <ProductName><![CDATA[Northwoods Cranberry Sauce]]></ProductName>
+  <SupplierID><![CDATA[3]]></SupplierID>
+  <CategoryID><![CDATA[2]]></CategoryID>
+  <QuantityPerUnit><![CDATA[12 - 12 oz jars]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[40]]></UnitPrice>
+  <UnitsInStock><![CDATA[6]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[0]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[9]]></ProductID>
+  <ProductName><![CDATA[Mishi Kobe Niku]]></ProductName>
+  <SupplierID><![CDATA[4]]></SupplierID>
+  <CategoryID><![CDATA[6]]></CategoryID>
+  <QuantityPerUnit><![CDATA[18 - 500 g pkgs.]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[97]]></UnitPrice>
+  <UnitsInStock><![CDATA[29]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[0]]></ReorderLevel>
+  <Discontinued><![CDATA[1]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[10]]></ProductID>
+  <ProductName><![CDATA[Ikura]]></ProductName>
+  <SupplierID><![CDATA[4]]></SupplierID>
+  <CategoryID><![CDATA[8]]></CategoryID>
+  <QuantityPerUnit><![CDATA[12 - 200 ml jars]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[31]]></UnitPrice>
+  <UnitsInStock><![CDATA[31]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[0]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[11]]></ProductID>
+  <ProductName><![CDATA[Queso Cabrales]]></ProductName>
+  <SupplierID><![CDATA[5]]></SupplierID>
+  <CategoryID><![CDATA[4]]></CategoryID>
+  <QuantityPerUnit><![CDATA[1 kg pkg.]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[21]]></UnitPrice>
+  <UnitsInStock><![CDATA[22]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[30]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[30]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[12]]></ProductID>
+  <ProductName><![CDATA[Queso Manchego La Pastora]]></ProductName>
+  <SupplierID><![CDATA[5]]></SupplierID>
+  <CategoryID><![CDATA[4]]></CategoryID>
+  <QuantityPerUnit><![CDATA[10 - 500 g pkgs.]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[38]]></UnitPrice>
+  <UnitsInStock><![CDATA[86]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[0]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[13]]></ProductID>
+  <ProductName><![CDATA[Konbu]]></ProductName>
+  <SupplierID><![CDATA[6]]></SupplierID>
+  <CategoryID><![CDATA[8]]></CategoryID>
+  <QuantityPerUnit><![CDATA[2 kg box]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[6]]></UnitPrice>
+  <UnitsInStock><![CDATA[24]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[5]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[14]]></ProductID>
+  <ProductName><![CDATA[Tofu]]></ProductName>
+  <SupplierID><![CDATA[6]]></SupplierID>
+  <CategoryID><![CDATA[7]]></CategoryID>
+  <QuantityPerUnit><![CDATA[40 - 100 g pkgs.]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[23.25]]></UnitPrice>
+  <UnitsInStock><![CDATA[35]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[0]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[15]]></ProductID>
+  <ProductName><![CDATA[Genen Shouyu]]></ProductName>
+  <SupplierID><![CDATA[6]]></SupplierID>
+  <CategoryID><![CDATA[2]]></CategoryID>
+  <QuantityPerUnit><![CDATA[24 - 250 ml bottles]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[15.5]]></UnitPrice>
+  <UnitsInStock><![CDATA[39]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[5]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[16]]></ProductID>
+  <ProductName><![CDATA[Pavlova]]></ProductName>
+  <SupplierID><![CDATA[7]]></SupplierID>
+  <CategoryID><![CDATA[3]]></CategoryID>
+  <QuantityPerUnit><![CDATA[32 - 500 g boxes]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[17.45]]></UnitPrice>
+  <UnitsInStock><![CDATA[29]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[10]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[17]]></ProductID>
+  <ProductName><![CDATA[Alice Mutton]]></ProductName>
+  <SupplierID><![CDATA[7]]></SupplierID>
+  <CategoryID><![CDATA[6]]></CategoryID>
+  <QuantityPerUnit><![CDATA[20 - 1 kg tins]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[39]]></UnitPrice>
+  <UnitsInStock><![CDATA[0]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[0]]></ReorderLevel>
+  <Discontinued><![CDATA[1]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[18]]></ProductID>
+  <ProductName><![CDATA[Carnarvon Tigers]]></ProductName>
+  <SupplierID><![CDATA[7]]></SupplierID>
+  <CategoryID><![CDATA[8]]></CategoryID>
+  <QuantityPerUnit><![CDATA[16 kg pkg.]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[62.5]]></UnitPrice>
+  <UnitsInStock><![CDATA[42]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[0]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[19]]></ProductID>
+  <ProductName><![CDATA[Teatime Chocolate Biscuits]]></ProductName>
+  <SupplierID><![CDATA[8]]></SupplierID>
+  <CategoryID><![CDATA[3]]></CategoryID>
+  <QuantityPerUnit><![CDATA[10 boxes x 12 pieces]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[9.2]]></UnitPrice>
+  <UnitsInStock><![CDATA[25]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[5]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[20]]></ProductID>
+  <ProductName><![CDATA[Sir Rodney's Marmalade]]></ProductName>
+  <SupplierID><![CDATA[8]]></SupplierID>
+  <CategoryID><![CDATA[3]]></CategoryID>
+  <QuantityPerUnit><![CDATA[30 gift boxes]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[81]]></UnitPrice>
+  <UnitsInStock><![CDATA[40]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[0]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[21]]></ProductID>
+  <ProductName><![CDATA[Sir Rodney's Scones]]></ProductName>
+  <SupplierID><![CDATA[8]]></SupplierID>
+  <CategoryID><![CDATA[3]]></CategoryID>
+  <QuantityPerUnit><![CDATA[24 pkgs. x 4 pieces]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[10]]></UnitPrice>
+  <UnitsInStock><![CDATA[3]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[40]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[5]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[22]]></ProductID>
+  <ProductName><![CDATA[Gustaf's Knackebrod]]></ProductName>
+  <SupplierID><![CDATA[9]]></SupplierID>
+  <CategoryID><![CDATA[5]]></CategoryID>
+  <QuantityPerUnit><![CDATA[24 - 500 g pkgs.]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[21]]></UnitPrice>
+  <UnitsInStock><![CDATA[104]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[25]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[23]]></ProductID>
+  <ProductName><![CDATA[Tunnbrod]]></ProductName>
+  <SupplierID><![CDATA[9]]></SupplierID>
+  <CategoryID><![CDATA[5]]></CategoryID>
+  <QuantityPerUnit><![CDATA[12 - 250 g pkgs.]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[9]]></UnitPrice>
+  <UnitsInStock><![CDATA[61]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[25]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[24]]></ProductID>
+  <ProductName><![CDATA[Guarana Fantastica]]></ProductName>
+  <SupplierID><![CDATA[10]]></SupplierID>
+  <CategoryID><![CDATA[1]]></CategoryID>
+  <QuantityPerUnit><![CDATA[12 - 355 ml cans]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[4.5]]></UnitPrice>
+  <UnitsInStock><![CDATA[20]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[0]]></ReorderLevel>
+  <Discontinued><![CDATA[1]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[25]]></ProductID>
+  <ProductName><![CDATA[NuNuCa Nu-Nougat-Creme]]></ProductName>
+  <SupplierID><![CDATA[11]]></SupplierID>
+  <CategoryID><![CDATA[3]]></CategoryID>
+  <QuantityPerUnit><![CDATA[20 - 450 g glasses]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[14]]></UnitPrice>
+  <UnitsInStock><![CDATA[76]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[30]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[26]]></ProductID>
+  <ProductName><![CDATA[Gumbar Gummibarchen]]></ProductName>
+  <SupplierID><![CDATA[11]]></SupplierID>
+  <CategoryID><![CDATA[3]]></CategoryID>
+  <QuantityPerUnit><![CDATA[100 - 250 g bags]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[31.23]]></UnitPrice>
+  <UnitsInStock><![CDATA[15]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[0]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[27]]></ProductID>
+  <ProductName><![CDATA[Schoggi Schokolade]]></ProductName>
+  <SupplierID><![CDATA[11]]></SupplierID>
+  <CategoryID><![CDATA[3]]></CategoryID>
+  <QuantityPerUnit><![CDATA[100 - 100 g pieces]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[43.9]]></UnitPrice>
+  <UnitsInStock><![CDATA[49]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[30]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[28]]></ProductID>
+  <ProductName><![CDATA[Rossle Sauerkraut]]></ProductName>
+  <SupplierID><![CDATA[12]]></SupplierID>
+  <CategoryID><![CDATA[7]]></CategoryID>
+  <QuantityPerUnit><![CDATA[25 - 825 g cans]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[45.6]]></UnitPrice>
+  <UnitsInStock><![CDATA[26]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[0]]></ReorderLevel>
+  <Discontinued><![CDATA[1]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[29]]></ProductID>
+  <ProductName><![CDATA[Thuringer Rostbratwurst]]></ProductName>
+  <SupplierID><![CDATA[12]]></SupplierID>
+  <CategoryID><![CDATA[6]]></CategoryID>
+  <QuantityPerUnit><![CDATA[50 bags x 30 sausgs.]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[123.79]]></UnitPrice>
+  <UnitsInStock><![CDATA[0]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[0]]></ReorderLevel>
+  <Discontinued><![CDATA[1]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[30]]></ProductID>
+  <ProductName><![CDATA[Nord-Ost Matjeshering]]></ProductName>
+  <SupplierID><![CDATA[13]]></SupplierID>
+  <CategoryID><![CDATA[8]]></CategoryID>
+  <QuantityPerUnit><![CDATA[10 - 200 g glasses]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[25.89]]></UnitPrice>
+  <UnitsInStock><![CDATA[10]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[15]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[31]]></ProductID>
+  <ProductName><![CDATA[Gorgonzola Telino]]></ProductName>
+  <SupplierID><![CDATA[14]]></SupplierID>
+  <CategoryID><![CDATA[4]]></CategoryID>
+  <QuantityPerUnit><![CDATA[12 - 100 g pkgs]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[12.5]]></UnitPrice>
+  <UnitsInStock><![CDATA[0]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[70]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[20]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[32]]></ProductID>
+  <ProductName><![CDATA[Mascarpone Fabioli]]></ProductName>
+  <SupplierID><![CDATA[14]]></SupplierID>
+  <CategoryID><![CDATA[4]]></CategoryID>
+  <QuantityPerUnit><![CDATA[24 - 200 g pkgs.]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[32]]></UnitPrice>
+  <UnitsInStock><![CDATA[9]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[40]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[25]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[33]]></ProductID>
+  <ProductName><![CDATA[Geitost]]></ProductName>
+  <SupplierID><![CDATA[15]]></SupplierID>
+  <CategoryID><![CDATA[4]]></CategoryID>
+  <QuantityPerUnit><![CDATA[500 g]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[2.5]]></UnitPrice>
+  <UnitsInStock><![CDATA[112]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[20]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[34]]></ProductID>
+  <ProductName><![CDATA[Sasquatch Ale]]></ProductName>
+  <SupplierID><![CDATA[16]]></SupplierID>
+  <CategoryID><![CDATA[1]]></CategoryID>
+  <QuantityPerUnit><![CDATA[24 - 12 oz bottles]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[14]]></UnitPrice>
+  <UnitsInStock><![CDATA[111]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[15]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[35]]></ProductID>
+  <ProductName><![CDATA[Steeleye Stout]]></ProductName>
+  <SupplierID><![CDATA[16]]></SupplierID>
+  <CategoryID><![CDATA[1]]></CategoryID>
+  <QuantityPerUnit><![CDATA[24 - 12 oz bottles]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[18]]></UnitPrice>
+  <UnitsInStock><![CDATA[20]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[15]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[36]]></ProductID>
+  <ProductName><![CDATA[Inlagd Sill]]></ProductName>
+  <SupplierID><![CDATA[17]]></SupplierID>
+  <CategoryID><![CDATA[8]]></CategoryID>
+  <QuantityPerUnit><![CDATA[24 - 250 g  jars]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[19]]></UnitPrice>
+  <UnitsInStock><![CDATA[112]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[20]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[37]]></ProductID>
+  <ProductName><![CDATA[Gravad lax]]></ProductName>
+  <SupplierID><![CDATA[17]]></SupplierID>
+  <CategoryID><![CDATA[8]]></CategoryID>
+  <QuantityPerUnit><![CDATA[12 - 500 g pkgs.]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[26]]></UnitPrice>
+  <UnitsInStock><![CDATA[11]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[50]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[25]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[38]]></ProductID>
+  <ProductName><![CDATA[Cote de Blaye]]></ProductName>
+  <SupplierID><![CDATA[18]]></SupplierID>
+  <CategoryID><![CDATA[1]]></CategoryID>
+  <QuantityPerUnit><![CDATA[12 - 75 cl bottles]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[263.5]]></UnitPrice>
+  <UnitsInStock><![CDATA[17]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[15]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[39]]></ProductID>
+  <ProductName><![CDATA[Chartreuse verte]]></ProductName>
+  <SupplierID><![CDATA[18]]></SupplierID>
+  <CategoryID><![CDATA[1]]></CategoryID>
+  <QuantityPerUnit><![CDATA[750 cc per bottle]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[18]]></UnitPrice>
+  <UnitsInStock><![CDATA[69]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[5]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[40]]></ProductID>
+  <ProductName><![CDATA[Boston Crab Meat]]></ProductName>
+  <SupplierID><![CDATA[19]]></SupplierID>
+  <CategoryID><![CDATA[8]]></CategoryID>
+  <QuantityPerUnit><![CDATA[24 - 4 oz tins]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[18.4]]></UnitPrice>
+  <UnitsInStock><![CDATA[123]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[30]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[41]]></ProductID>
+  <ProductName><![CDATA[Jack's New England Clam Chowder]]></ProductName>
+  <SupplierID><![CDATA[19]]></SupplierID>
+  <CategoryID><![CDATA[8]]></CategoryID>
+  <QuantityPerUnit><![CDATA[12 - 12 oz cans]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[9.65]]></UnitPrice>
+  <UnitsInStock><![CDATA[85]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[10]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[42]]></ProductID>
+  <ProductName><![CDATA[Singaporean Hokkien Fried Mee]]></ProductName>
+  <SupplierID><![CDATA[20]]></SupplierID>
+  <CategoryID><![CDATA[5]]></CategoryID>
+  <QuantityPerUnit><![CDATA[32 - 1 kg pkgs.]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[14]]></UnitPrice>
+  <UnitsInStock><![CDATA[26]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[0]]></ReorderLevel>
+  <Discontinued><![CDATA[1]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[43]]></ProductID>
+  <ProductName><![CDATA[Ipoh Coffee]]></ProductName>
+  <SupplierID><![CDATA[20]]></SupplierID>
+  <CategoryID><![CDATA[1]]></CategoryID>
+  <QuantityPerUnit><![CDATA[16 - 500 g tins]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[46]]></UnitPrice>
+  <UnitsInStock><![CDATA[17]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[10]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[25]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[44]]></ProductID>
+  <ProductName><![CDATA[Gula Malacca]]></ProductName>
+  <SupplierID><![CDATA[20]]></SupplierID>
+  <CategoryID><![CDATA[2]]></CategoryID>
+  <QuantityPerUnit><![CDATA[20 - 2 kg bags]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[19.45]]></UnitPrice>
+  <UnitsInStock><![CDATA[27]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[15]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[45]]></ProductID>
+  <ProductName><![CDATA[Rogede sild]]></ProductName>
+  <SupplierID><![CDATA[21]]></SupplierID>
+  <CategoryID><![CDATA[8]]></CategoryID>
+  <QuantityPerUnit><![CDATA[1k pkg.]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[9.5]]></UnitPrice>
+  <UnitsInStock><![CDATA[5]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[70]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[15]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[46]]></ProductID>
+  <ProductName><![CDATA[Spegesild]]></ProductName>
+  <SupplierID><![CDATA[21]]></SupplierID>
+  <CategoryID><![CDATA[8]]></CategoryID>
+  <QuantityPerUnit><![CDATA[4 - 450 g glasses]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[12]]></UnitPrice>
+  <UnitsInStock><![CDATA[95]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[0]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[47]]></ProductID>
+  <ProductName><![CDATA[Zaanse koeken]]></ProductName>
+  <SupplierID><![CDATA[22]]></SupplierID>
+  <CategoryID><![CDATA[3]]></CategoryID>
+  <QuantityPerUnit><![CDATA[10 - 4 oz boxes]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[9.5]]></UnitPrice>
+  <UnitsInStock><![CDATA[36]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[0]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[48]]></ProductID>
+  <ProductName><![CDATA[Chocolade]]></ProductName>
+  <SupplierID><![CDATA[22]]></SupplierID>
+  <CategoryID><![CDATA[3]]></CategoryID>
+  <QuantityPerUnit><![CDATA[10 pkgs.]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[12.75]]></UnitPrice>
+  <UnitsInStock><![CDATA[15]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[70]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[25]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[49]]></ProductID>
+  <ProductName><![CDATA[Maxilaku]]></ProductName>
+  <SupplierID><![CDATA[23]]></SupplierID>
+  <CategoryID><![CDATA[3]]></CategoryID>
+  <QuantityPerUnit><![CDATA[24 - 50 g pkgs.]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[20]]></UnitPrice>
+  <UnitsInStock><![CDATA[10]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[60]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[15]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[50]]></ProductID>
+  <ProductName><![CDATA[Valkoinen suklaa]]></ProductName>
+  <SupplierID><![CDATA[23]]></SupplierID>
+  <CategoryID><![CDATA[3]]></CategoryID>
+  <QuantityPerUnit><![CDATA[12 - 100 g bars]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[16.25]]></UnitPrice>
+  <UnitsInStock><![CDATA[65]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[30]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[51]]></ProductID>
+  <ProductName><![CDATA[Manjimup Dried Apples]]></ProductName>
+  <SupplierID><![CDATA[24]]></SupplierID>
+  <CategoryID><![CDATA[7]]></CategoryID>
+  <QuantityPerUnit><![CDATA[50 - 300 g pkgs.]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[53]]></UnitPrice>
+  <UnitsInStock><![CDATA[20]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[10]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[52]]></ProductID>
+  <ProductName><![CDATA[Filo Mix]]></ProductName>
+  <SupplierID><![CDATA[24]]></SupplierID>
+  <CategoryID><![CDATA[5]]></CategoryID>
+  <QuantityPerUnit><![CDATA[16 - 2 kg boxes]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[7]]></UnitPrice>
+  <UnitsInStock><![CDATA[38]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[25]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[53]]></ProductID>
+  <ProductName><![CDATA[Perth Pasties]]></ProductName>
+  <SupplierID><![CDATA[24]]></SupplierID>
+  <CategoryID><![CDATA[6]]></CategoryID>
+  <QuantityPerUnit><![CDATA[48 pieces]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[32.8]]></UnitPrice>
+  <UnitsInStock><![CDATA[0]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[0]]></ReorderLevel>
+  <Discontinued><![CDATA[1]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[54]]></ProductID>
+  <ProductName><![CDATA[Tourtiere]]></ProductName>
+  <SupplierID><![CDATA[25]]></SupplierID>
+  <CategoryID><![CDATA[6]]></CategoryID>
+  <QuantityPerUnit><![CDATA[16 pies]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[7.45]]></UnitPrice>
+  <UnitsInStock><![CDATA[21]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[10]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[55]]></ProductID>
+  <ProductName><![CDATA[Pate chinois]]></ProductName>
+  <SupplierID><![CDATA[25]]></SupplierID>
+  <CategoryID><![CDATA[6]]></CategoryID>
+  <QuantityPerUnit><![CDATA[24 boxes x 2 pies]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[24]]></UnitPrice>
+  <UnitsInStock><![CDATA[115]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[20]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[56]]></ProductID>
+  <ProductName><![CDATA[Gnocchi di nonna Alice]]></ProductName>
+  <SupplierID><![CDATA[26]]></SupplierID>
+  <CategoryID><![CDATA[5]]></CategoryID>
+  <QuantityPerUnit><![CDATA[24 - 250 g pkgs.]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[38]]></UnitPrice>
+  <UnitsInStock><![CDATA[21]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[10]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[30]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[57]]></ProductID>
+  <ProductName><![CDATA[Ravioli Angelo]]></ProductName>
+  <SupplierID><![CDATA[26]]></SupplierID>
+  <CategoryID><![CDATA[5]]></CategoryID>
+  <QuantityPerUnit><![CDATA[24 - 250 g pkgs.]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[19.5]]></UnitPrice>
+  <UnitsInStock><![CDATA[36]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[20]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[58]]></ProductID>
+  <ProductName><![CDATA[Escargots de Bourgogne]]></ProductName>
+  <SupplierID><![CDATA[27]]></SupplierID>
+  <CategoryID><![CDATA[8]]></CategoryID>
+  <QuantityPerUnit><![CDATA[24 pieces]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[13.25]]></UnitPrice>
+  <UnitsInStock><![CDATA[62]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[20]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[59]]></ProductID>
+  <ProductName><![CDATA[Raclette Courdavault]]></ProductName>
+  <SupplierID><![CDATA[28]]></SupplierID>
+  <CategoryID><![CDATA[4]]></CategoryID>
+  <QuantityPerUnit><![CDATA[5 kg pkg.]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[55]]></UnitPrice>
+  <UnitsInStock><![CDATA[79]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[0]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[60]]></ProductID>
+  <ProductName><![CDATA[Camembert Pierrot]]></ProductName>
+  <SupplierID><![CDATA[28]]></SupplierID>
+  <CategoryID><![CDATA[4]]></CategoryID>
+  <QuantityPerUnit><![CDATA[15 - 300 g rounds]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[34]]></UnitPrice>
+  <UnitsInStock><![CDATA[19]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[0]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[61]]></ProductID>
+  <ProductName><![CDATA[Sirop d'erable]]></ProductName>
+  <SupplierID><![CDATA[29]]></SupplierID>
+  <CategoryID><![CDATA[2]]></CategoryID>
+  <QuantityPerUnit><![CDATA[24 - 500 ml bottles]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[28.5]]></UnitPrice>
+  <UnitsInStock><![CDATA[113]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[25]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[62]]></ProductID>
+  <ProductName><![CDATA[Tarte au sucre]]></ProductName>
+  <SupplierID><![CDATA[29]]></SupplierID>
+  <CategoryID><![CDATA[3]]></CategoryID>
+  <QuantityPerUnit><![CDATA[48 pies]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[49.3]]></UnitPrice>
+  <UnitsInStock><![CDATA[17]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[0]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[63]]></ProductID>
+  <ProductName><![CDATA[Vegie-spread]]></ProductName>
+  <SupplierID><![CDATA[7]]></SupplierID>
+  <CategoryID><![CDATA[2]]></CategoryID>
+  <QuantityPerUnit><![CDATA[15 - 625 g jars]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[43.9]]></UnitPrice>
+  <UnitsInStock><![CDATA[24]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[5]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[64]]></ProductID>
+  <ProductName><![CDATA[Wimmers gute Semmelknodel]]></ProductName>
+  <SupplierID><![CDATA[12]]></SupplierID>
+  <CategoryID><![CDATA[5]]></CategoryID>
+  <QuantityPerUnit><![CDATA[20 bags x 4 pieces]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[33.25]]></UnitPrice>
+  <UnitsInStock><![CDATA[22]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[80]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[30]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[65]]></ProductID>
+  <ProductName><![CDATA[Louisiana Fiery Hot Pepper Sauce]]></ProductName>
+  <SupplierID><![CDATA[2]]></SupplierID>
+  <CategoryID><![CDATA[2]]></CategoryID>
+  <QuantityPerUnit><![CDATA[32 - 8 oz bottles]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[21.05]]></UnitPrice>
+  <UnitsInStock><![CDATA[76]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[0]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[66]]></ProductID>
+  <ProductName><![CDATA[Louisiana Hot Spiced Okra]]></ProductName>
+  <SupplierID><![CDATA[2]]></SupplierID>
+  <CategoryID><![CDATA[2]]></CategoryID>
+  <QuantityPerUnit><![CDATA[24 - 8 oz jars]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[17]]></UnitPrice>
+  <UnitsInStock><![CDATA[4]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[100]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[20]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[67]]></ProductID>
+  <ProductName><![CDATA[Laughing Lumberjack Lager]]></ProductName>
+  <SupplierID><![CDATA[16]]></SupplierID>
+  <CategoryID><![CDATA[1]]></CategoryID>
+  <QuantityPerUnit><![CDATA[24 - 12 oz bottles]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[14]]></UnitPrice>
+  <UnitsInStock><![CDATA[52]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[10]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[68]]></ProductID>
+  <ProductName><![CDATA[Scottish Longbreads]]></ProductName>
+  <SupplierID><![CDATA[8]]></SupplierID>
+  <CategoryID><![CDATA[3]]></CategoryID>
+  <QuantityPerUnit><![CDATA[10 boxes x 8 pieces]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[12.5]]></UnitPrice>
+  <UnitsInStock><![CDATA[6]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[10]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[15]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[69]]></ProductID>
+  <ProductName><![CDATA[Gudbrandsdalsost]]></ProductName>
+  <SupplierID><![CDATA[15]]></SupplierID>
+  <CategoryID><![CDATA[4]]></CategoryID>
+  <QuantityPerUnit><![CDATA[10 kg pkg.]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[36]]></UnitPrice>
+  <UnitsInStock><![CDATA[26]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[15]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[70]]></ProductID>
+  <ProductName><![CDATA[Outback Lager]]></ProductName>
+  <SupplierID><![CDATA[7]]></SupplierID>
+  <CategoryID><![CDATA[1]]></CategoryID>
+  <QuantityPerUnit><![CDATA[24 - 355 ml bottles]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[15]]></UnitPrice>
+  <UnitsInStock><![CDATA[15]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[10]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[30]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[71]]></ProductID>
+  <ProductName><![CDATA[Flotemysost]]></ProductName>
+  <SupplierID><![CDATA[15]]></SupplierID>
+  <CategoryID><![CDATA[4]]></CategoryID>
+  <QuantityPerUnit><![CDATA[10 - 500 g pkgs.]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[21.5]]></UnitPrice>
+  <UnitsInStock><![CDATA[26]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[0]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[72]]></ProductID>
+  <ProductName><![CDATA[Mozzarella di Giovanni]]></ProductName>
+  <SupplierID><![CDATA[14]]></SupplierID>
+  <CategoryID><![CDATA[4]]></CategoryID>
+  <QuantityPerUnit><![CDATA[24 - 200 g pkgs.]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[34.8]]></UnitPrice>
+  <UnitsInStock><![CDATA[14]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[0]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[73]]></ProductID>
+  <ProductName><![CDATA[Rod Kaviar]]></ProductName>
+  <SupplierID><![CDATA[17]]></SupplierID>
+  <CategoryID><![CDATA[8]]></CategoryID>
+  <QuantityPerUnit><![CDATA[24 - 150 g jars]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[15]]></UnitPrice>
+  <UnitsInStock><![CDATA[101]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[5]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[74]]></ProductID>
+  <ProductName><![CDATA[Longlife Tofu]]></ProductName>
+  <SupplierID><![CDATA[4]]></SupplierID>
+  <CategoryID><![CDATA[7]]></CategoryID>
+  <QuantityPerUnit><![CDATA[5 kg pkg.]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[10]]></UnitPrice>
+  <UnitsInStock><![CDATA[4]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[20]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[5]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[75]]></ProductID>
+  <ProductName><![CDATA[Rhonbrau Klosterbier]]></ProductName>
+  <SupplierID><![CDATA[12]]></SupplierID>
+  <CategoryID><![CDATA[1]]></CategoryID>
+  <QuantityPerUnit><![CDATA[24 - 0.5 l bottles]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[7.75]]></UnitPrice>
+  <UnitsInStock><![CDATA[125]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[25]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[76]]></ProductID>
+  <ProductName><![CDATA[Lakkalikoori]]></ProductName>
+  <SupplierID><![CDATA[23]]></SupplierID>
+  <CategoryID><![CDATA[1]]></CategoryID>
+  <QuantityPerUnit><![CDATA[500 ml]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[18]]></UnitPrice>
+  <UnitsInStock><![CDATA[57]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[20]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+<Product>
+  <ProductID><![CDATA[77]]></ProductID>
+  <ProductName><![CDATA[Original Frankfurter]]></ProductName>
+  <SupplierID><![CDATA[12]]></SupplierID>
+  <CategoryID><![CDATA[2]]></CategoryID>
+  <QuantityPerUnit><![CDATA[12 boxes]]></QuantityPerUnit>
+  <UnitPrice><![CDATA[13]]></UnitPrice>
+  <UnitsInStock><![CDATA[32]]></UnitsInStock>
+  <UnitsOnOrder><![CDATA[0]]></UnitsOnOrder>
+  <ReorderLevel><![CDATA[15]]></ReorderLevel>
+  <Discontinued><![CDATA[0]]></Discontinued>
+ </Product>
+</ProductsMaster>
